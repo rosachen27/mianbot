@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# dotenv file (contains secrets)
+.env
+
+# Temp audio files
+tts_*.mp3
+tts_test.mp3
+
+# OS files
+.DS_Store
+Thumbs.db
